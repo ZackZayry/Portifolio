@@ -47,8 +47,8 @@ body
 {
     background-color: var(--cor3);
     padding: 12px;
-    border-radius: 15%;
-    border-style: outset;
+    border-radius:15%;
+    border-style: outset; 
     color: var(--cor5);
 }
 
