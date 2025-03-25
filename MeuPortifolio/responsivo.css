@@ -85,6 +85,12 @@
 
 @media (max-width:425px)
 {
+    .Geral
+    {
+        display: flex;
+        flex-direction: column;
+    }
+
     .Eu.Menor.Ainda
     {
         display: block;
@@ -106,12 +112,12 @@
 
     .Title3
     {
-        font-size: 1px;
+        font-size: 5px;
     }
 
     .Title3.Selecionado
     {
-        font-size: 5px;
+        font-size: 10px;
     }
 
     .Conteúdo
