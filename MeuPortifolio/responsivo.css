@@ -110,6 +110,13 @@
         font-size: 20px;
     }
 
+    .Cabecalho.Opcoes
+    {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
     .Title3
     {
         font-size: 8px;
@@ -122,12 +129,12 @@
 
     .Title4
     {
-        font-size: 7px;
+        font-size: 8px;
     }
 
     .Conteúdo
     {
-        font-size: 6px;
+        font-size: 7px;
         width: 100%;
     }
 }
