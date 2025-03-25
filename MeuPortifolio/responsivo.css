@@ -85,14 +85,37 @@
 
 @media (max-width:425px)
 {
-    .Conteúdo
+    .Eu.Menor.Ainda
     {
-        width:100%;
+        display: block;
+    }
+    .Eu.Menor
+    {
+        display: none;
     }
 
-    .conteudo
+    .Title1
     {
-        padding-bottom:150px;
-        gap:50px;
+        font-size: 50px;
+    }
+
+    .Cabecalho.SubTitulo
+    {
+        font-size: 20px;
+    }
+
+    .Title3
+    {
+        font-size: 1px;
+    }
+
+    .Title3.Selecionado
+    {
+        font-size: 5px;
+    }
+
+    .Conteúdo
+    {
+        width: 100%;
     }
 }
