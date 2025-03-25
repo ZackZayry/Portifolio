@@ -102,7 +102,7 @@
 
     .Title1
     {
-        font-size: 50px;
+        font-size: 40px;
     }
 
     .Cabecalho.SubTitulo
@@ -112,17 +112,22 @@
 
     .Title3
     {
-        font-size: 5px;
+        font-size: 8px;
     }
 
     .Title3.Selecionado
     {
-        font-size: 10px;
+        font-size: 9px;
+    }
+
+    .Title4
+    {
+        font-size: 7px;
     }
 
     .Conteúdo
     {
-        font-size: 2px;
+        font-size: 6px;
         width: 100%;
     }
 }
